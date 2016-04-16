@@ -294,7 +294,7 @@
     <timestamp_field/>
     <read_from>&#x24;&#x7b;LAST_RUN_DATE&#x7d;</read_from>
     <read_to>2199-12-31 23&#x3a;59&#x3a;59</read_to>
-    <records_filter>all</records_filter>
+    <records_filter>updated</records_filter>
     <useCompression>N</useCompression>
     <queryAll>N</queryAll>
     <fields>
